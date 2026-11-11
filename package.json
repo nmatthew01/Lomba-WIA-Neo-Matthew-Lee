@@ -1,0 +1,13 @@
+{
+  "name": "sambungwarga",
+  "version": "0.1.0",
+  "description": "Community services, emergency info and civic reporting platform (front-end prototype).",
+  "private": true,
+  "scripts": {
+    "start": "http-server . -p 8080 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "license": "MIT"
+}

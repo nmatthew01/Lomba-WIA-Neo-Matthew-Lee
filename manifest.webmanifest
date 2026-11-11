@@ -1,0 +1,24 @@
+{
+ "name": "SambungWarga",
+ "short_name": "SambungWarga",
+ "description": "Community services, emergency info, and civic reporting",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F2F6FB",
+ "theme_color": "#1F5FBF",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
